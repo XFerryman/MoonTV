@@ -76,6 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+     "taopian": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片资源"
     }
   }
 }
